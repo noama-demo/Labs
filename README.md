@@ -6,21 +6,21 @@
 
 #### Available labs
 1. Lab01 - https://github.com/noama-demo/Lab01
-  - Clone 
-  - Init
+    - Clone 
+    - Init
 2. Lab02 - https://github.com/noama-demo/Lab02
-  - Branching
-  - Checkout
+    - Branching
+    - Checkout
 3. Lab03 - https://github.com/noama-demo/Lab03
-  - Merge
-  - Rebase
+    - Merge
+    - Rebase
 4. Lab04 - https://github.com/noama-demo/Lab04
-   - Handling conflicts
+    - Handling conflicts
 5. Lab05 - https://github.com/noama-demo/Lab05
-  - Revert
-  - Cherry-Pick
-  - Reset
+    - Revert
+    - Cherry-Pick
+    - Reset
 6. https://github.com/noama-demo/Lab06 (You will need a teacher's token for this lab)
-  - Pull
-  - Push
-  - Pull conflicts
+    - Pull
+    - Push
+    - Pull conflicts
