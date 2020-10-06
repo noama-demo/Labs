@@ -3,6 +3,11 @@
 #### Install GitExtensions
 - Visit https://github.com/gitextensions/gitextensions/releases/latest
 - Download and run the latest GitExtensions-x.y.z.msi
+- Git Extensions High Level view
+[![alt text][image]][hyperlink]
+
+  [hyperlink]: https://github.com/noama-demo/Labs/blob/master/GitExtensions.png
+  [image]: https://github.com/noama-demo/Labs/blob/master/GitExtensions.png (tooltip)
 
 #### Available labs
 1. Lab01 - https://github.com/noama-demo/Lab01
