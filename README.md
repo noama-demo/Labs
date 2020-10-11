@@ -29,3 +29,6 @@
     - Pull
     - Push
     - Pull conflicts
+7. https://github.com/noama-demo/Lab07
+    - Submodule Add
+    - Submodule Update
