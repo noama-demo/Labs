@@ -25,10 +25,10 @@
     - Revert
     - Cherry-Pick
     - Reset
-6. https://github.com/noama-demo/Lab06 (You will need a teacher's token for this lab)
+6. Lab06 - https://github.com/noama-demo/Lab06 (You will need a teacher's token for this lab)
     - Pull
     - Push
     - Pull conflicts
-7. https://github.com/noama-demo/Lab07
+7. Lab 07 - https://github.com/noama-demo/Lab07
     - Submodule Add
     - Submodule Update
