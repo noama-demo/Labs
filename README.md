@@ -6,29 +6,32 @@
 - Git Extensions High Level view
 [![alt text][image]][hyperlink]
 
-  [hyperlink]: https://github.com/noama-demo/Labs/blob/master/GitExtensions.png
-  [image]: https://github.com/noama-demo/Labs/blob/master/GitExtensions.png (tooltip)
+  [hyperlink]: ./GitExtensions.png
+  [image]: ./GitExtensions.png (tooltip)
+
+#### Preparations
+- Copy the GitServer folder to your c:\ drive, like this: C:\GitServer
 
 #### Available labs
-1. Lab01 - https://github.com/noama-demo/Lab01
+1. [Lab01](../Lab01/Readme.md)
     - Clone 
     - Init
-2. Lab02 - https://github.com/noama-demo/Lab02
+2. [Lab02](../Lab02/Readme.md)
     - Branching
     - Checkout
-3. Lab03 - https://github.com/noama-demo/Lab03
+3. [Lab03](../Lab03/Readme.md)
     - Merge
     - Rebase
-4. Lab04 - https://github.com/noama-demo/Lab04
+4. [Lab04](../Lab04/Readme.md)
     - Handling conflicts
-5. Lab05 - https://github.com/noama-demo/Lab05
+5. [Lab05](../Lab05/Readme.md)
     - Revert
     - Cherry-Pick
     - Reset
-6. Lab06 - https://github.com/noama-demo/Lab06 (You will need a teacher's token for this lab)
+6. [Lab06](../Lab06/Readme.md) (Requires serve connection)
     - Pull
     - Push
     - Pull conflicts
-7. Lab 07 - https://github.com/noama-demo/Lab07
+7. [Lab07](../Lab07/Readme.md)
     - Submodule Add
     - Submodule Update
